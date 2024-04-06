@@ -13,10 +13,7 @@ module.exports = {
         lgl: "1024px",
         xl: "1280px",
       },
-      fontFamily: {
-        bodyFont: ["Poppins", "sans-serif"],
-        titleFont: ["Montserrat", "sans-serif"],
-      },
+      
       colors: {
         bodyColor: "#212428",
         lightText: "#c4cfde",

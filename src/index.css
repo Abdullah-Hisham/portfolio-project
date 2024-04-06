@@ -21,7 +21,9 @@
 }
 }
 
-
+body{
+    font-family: Cairo;
+}
 .active {
     color: white;
 }

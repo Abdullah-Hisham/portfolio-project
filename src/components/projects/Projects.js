@@ -11,45 +11,45 @@ const Projects = () => {
     >
       <div className="flex justify-center items-center text-center">
         <Title
-          title="VISIT MY PORTFOLIO AND KEEP YOUR FEEDBACK"
-          des="My Projects"
+          title="زر موقعي واعطني رأيك"
+          des="مشاريعي"
         />
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
         <ProjectsCard
-          title="SOCIAL MEDIA CLONE"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          title="تطبيق تواصل اجتماعي"
+          des=" استطيع توفير خدمات ذكاء اصطناعي
+              استطيع توفير خدمات ذكاء اصطناعي "
           src={projectOne}
         />
         <ProjectsCard
-          title="E-commerce Website"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          title="متجر الكتروني"
+          des=" استطيع توفير خدمات ذكاء اصطناعي
+              استطيع توفير خدمات ذكاء اصطناعي "
           src={projectTwo}
         />
         <ProjectsCard
-          title="Chatting App"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          title="برنامج محادثه"
+          des=" استطيع توفير خدمات ذكاء اصطناعي
+              استطيع توفير خدمات ذكاء اصطناعي "
           src={projectThree}
         />
         <ProjectsCard
-          title="SOCIAL MEDIA CLONE"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          title="تطبيق تواصل اجتماعي"
+          des=" استطيع توفير خدمات ذكاء اصطناعي
+              استطيع توفير خدمات ذكاء اصطناعي "
           src={projectThree}
         />
         <ProjectsCard
-          title="E-commerce Website"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          title="متجر الكتروني"
+          des=" استطيع توفير خدمات ذكاء اصطناعي
+              استطيع توفير خدمات ذكاء اصطناعي "
           src={projectOne}
         />
         <ProjectsCard
-          title="Chatting App"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          title="برنامج محادثه"
+          des=" استطيع توفير خدمات ذكاء اصطناعي
+              استطيع توفير خدمات ذكاء اصطناعي "
           src={projectTwo}
         />
       </div>
